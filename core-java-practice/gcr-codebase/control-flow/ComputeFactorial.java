@@ -11,10 +11,10 @@ public class ComputeFactorial {
             System.out.println("We can't find factorial for negative no.");
         } else {
             long fact = 1;
-            for(int i=1;i<=n;i++)
-            {
-              fact=fact*i;//here we calculate the factorial of number n by using for loop
-            }
+            int i=1;
+            while (i <= n) {
+                fact=fact*i;//here we calculate the factorial of number n
+                i++;
 
             System.out.println("The factorial of "+ n+ " no. is " + fact);
         }

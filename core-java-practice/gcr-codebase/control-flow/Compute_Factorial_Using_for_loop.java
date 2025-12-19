@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ComputeFactorial {
+public class Compute_Factorial_Using_for_loop {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -20,4 +20,5 @@ public class ComputeFactorial {
         }
     }
 }
+
 

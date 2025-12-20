@@ -13,7 +13,7 @@ public class Coffee_Counter_Chronicles {
         double AMERICANO_PRICE = 110.0;
         double GST_RATE = 0.05; // 5% GST for coffee
         
-        System.out.println(" <-------Welcome to Ravi's Cafe ------->\n");
+        System.out.println(" <-------Welcome to Ravi's Cafe------->\n");
         
         while (true) {
             System.out.print("Enter coffee type (Espresso/Cappuccino/Latte/Americano) or 'exit' to quit: ");

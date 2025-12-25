@@ -3,7 +3,7 @@ public class perimeter_rectangle
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		System.out.println("input principal , rate and time");
+		System.out.println("input length and width of a rectangle");
 		int length=sc.nextInt();
 		int width=sc.nextInt();
 		

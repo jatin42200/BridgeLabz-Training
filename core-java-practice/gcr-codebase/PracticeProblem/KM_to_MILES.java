@@ -11,6 +11,6 @@ public class KM_to_MILES {
 
         double miles = kilometers * 0.621371;
 
-        System.out.println("Distance in miles: " + miles);
+        System.out.println("Distance in miles " + miles);
     }
 }

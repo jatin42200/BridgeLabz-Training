@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class calc_SI {
+public class calc_SI 
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

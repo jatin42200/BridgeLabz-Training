@@ -3,7 +3,7 @@
  
  ##  Week 1 (17 Dec 2025 – 20 Dec 2025)- 
 
-  17/Dec/2025 [Wednesday]---> 
+- 17/Dec/2025 [Wednesday]---> 
    Successfully configured Git and GitHub for the development workflow.Created and initialized a local repository structure with proper folder organization.Linked the local repository with the remote GitHub repository Gained hands-on understanding of core Git concepts such as:Repository initialization
    Branch creation and management 
 

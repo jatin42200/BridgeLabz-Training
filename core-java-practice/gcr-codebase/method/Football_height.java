@@ -17,7 +17,7 @@ public class Football_height {
     public static int findSum(int[] heights) {
         int sum = 0;
         for (int h : heights) {
-            sum += h;
+            sum = sum + h;
         }
         return sum;
     }

@@ -27,14 +27,14 @@
   Completed the *string* assignment, including programs for string manipulation, frequency calculation, and palindrome checks.
 
 
-  - 24/Dec/2025 [Wednesday]---> 
+- 24/Dec/2025 [Wednesday]---> 
   All questions of level 1 of *method base*, assignment codes have been completed. Each program demonstrates different methods and their usage.
   Two Scenario Based Questions are also done.
 
-  - 25/Dec/2025 [Thursday]--->
+- 25/Dec/2025 [Thursday]--->
   completed level 2 and level 3 of *method base* assignment and “I gained hands-on understanding of method-based programming by implementing user-defined methods, parameterized methods, and return value mechanisms and The initial assignment titled *practice problem* was missed earlier. It has now been completed and included as part of this repository.
 
 
-  - 26/Dec/2025 [Friday]--->
+- 26/Dec/2025 [Friday]--->
   Worked on *additional String-based problems*, and gained clarity on important String methods, including indexOf(), and their practical applications.
 

@@ -1,7 +1,10 @@
  
-                                      *BridgeLabz-Training*
+ ##                                       BridgeLabz-Training 
+
  
- ##  Week 1 (17 Dec 2025 – 20 Dec 2025)- 
+ 
+ ##                               Week 1 (17 Dec 2025 – 20 Dec 2025)- 
+
 
 - 17/Dec/2025 [Wednesday]---> 
    Successfully configured Git and GitHub for the development workflow.Created and initialized a local repository structure with proper folder organization.Linked the local repository with the remote GitHub repository Gained hands-on understanding of core Git concepts such as:Repository initialization
@@ -20,8 +23,8 @@
   Programs demonstrating single and multi-dimensional arrays, including operations like storing marks, calculating BMI, bonuses, reversing numbers, FizzBuzz, finding max/second max, and digit frequency..
 
 
+ ##                              Week 2 (22 Dec 2025 – 26 Dec 2025)- 
 
-  ##  Week 2 (22 Dec 2025 – 26 Dec 2025)- 
 
 - 22/Dec/2025 [Monday]---> 
   Completed *string-related programs* using charAt(), arrays, and user-defined methods.

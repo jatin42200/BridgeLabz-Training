@@ -1,2 +1,40 @@
 # BridgeLabz-Training
-15
+
+
+##  Week 1 (17 Dec 2025 – 20 Dec 2025)- 
+
+- 18/Dec/2025 [Thursday]---> 
+  Completed the *Programming Elements assignment*, reinforcing core concepts through hands-on practice.
+
+
+- 19/Dec/2025 [Friday]---> 
+    Completed the *Controls flow*, started studying and focusing on its core concepts and syntax.
+
+
+- 20/Dec/2025 [Saturday]---> 
+  Programs demonstrating single and multi-dimensional arrays, including operations like storing marks, calculating BMI, bonuses, reversing numbers, FizzBuzz, finding max/second max, and digit frequency..
+
+
+
+  ##  Week 2 (22 Dec 2025 – 26 Dec 2025)- 
+
+- 22/Dec/2025 [Monday]---> 
+  Completed *string-related programs* using charAt(), arrays, and user-defined methods.
+  Implemented exception handling concepts with practical examples and proper error handling.
+
+
+- 23/Dec/2025 [Tuesday]---> 
+  Completed the *string* assignment, including programs for string manipulation, frequency calculation, and palindrome checks.
+
+
+  - 24/Dec/2025 [Wednesday]---> 
+  All questions of level 1 of *method base*, assignment codes have been completed. Each program demonstrates different methods and their usage.
+  Two Scenario Based Questions are also done.
+
+  - 25/Dec/2025 [Thursday]--->
+  completed level 2 and level 3 of *method base* assignment and “I gained hands-on understanding of method-based programming by implementing user-defined methods, parameterized methods, and return value mechanisms and The initial assignment titled *practice problem* was missed earlier. It has now been completed and included as part of this repository.
+
+
+  - 26/Dec/2025 [Friday]--->
+  Worked on *additional String-based problems*, and gained clarity on important String methods, including indexOf(), and their practical applications.
+

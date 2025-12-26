@@ -1,7 +1,22 @@
 # BridgeLabz-Training
 
 
-##  Week 1 (17 Dec 2025 – 20 Dec 2025)- 
+  ##  Week 1 (17 Dec 2025 – 20 Dec 2025)- 
+
+  17/Dec/2025 [Wednesday]---> 
+   1.Configured Git & GitHub for the development workflow.
+
+   2.Created and initialized a local repository with proper folder structure.
+
+   3.Linked the local repository with a remote GitHub repository.
+
+   4.Understood core Git concepts:
+       .Repository initialization
+
+       .Branch creation and management
+
+Local–remote synchronization
+
 
 - 18/Dec/2025 [Thursday]---> 
   Completed the *Programming Elements assignment*, reinforcing core concepts through hands-on practice.

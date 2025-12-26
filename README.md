@@ -3,7 +3,7 @@
 
   ##  Week 1 (17 Dec 2025 – 20 Dec 2025)- 
 
-  17/Dec/2025 [Wednesday]---> 
+ - 17/Dec/2025 [Wednesday]---> 
    1.Configured Git & GitHub for the development workflow.
 
    2.Created and initialized a local repository with proper folder structure.

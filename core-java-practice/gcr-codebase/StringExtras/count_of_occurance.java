@@ -1,8 +1,10 @@
 
+import java.util.*;
 public class count_of_occurance {
     public static void main(String[] args) {
-        String str = "abababa";
-        String sub = "aba";
+        Scanner sc=new Scanner(System.in);
+        String str = sc.nextLine();
+        String sub = sc.next();
 
         int count = countOccurrences(str, sub);
         System.out.println("total Occurrences of this substring is = " + count);

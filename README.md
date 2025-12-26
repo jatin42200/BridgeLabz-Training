@@ -11,35 +11,54 @@
    3.Linked the local repository with a remote GitHub repository.
 
    4.Understood core Git concepts:
-       .Repository initialization
-
-       .Branch creation and management
-
-Local–remote synchronization
+       *Repository initialization
+       *Branch creation and management
+       *Local–remote synchronization
 
 
 - 18/Dec/2025 [Thursday]---> 
-  Completed the *Programming Elements assignment*, reinforcing core concepts through hands-on practice.
+    1.Completed the Programming Elements assignment.
+
+    2.Strengthened understanding of fundamental programming constructs through practice.
 
 
 - 19/Dec/2025 [Friday]---> 
-    Completed the *Controls flow*, started studying and focusing on its core concepts and syntax.
+    1.Completed Control Flow programs.
+
+    2.Focused on syntax, logical branching, and decision-making structures.
 
 
 - 20/Dec/2025 [Saturday]---> 
-  Programs demonstrating single and multi-dimensional arrays, including operations like storing marks, calculating BMI, bonuses, reversing numbers, FizzBuzz, finding max/second max, and digit frequency..
+     1.Implemented programs using single and multi-dimensional arrays.
+
+     2.Covered real-world problem scenarios including:
+        *Storing and processing marks
+        *BMI calculation
+        *Bonus calculation
+        *Number reversal
+        *FizzBuzz logic
+        *Maximum and second maximum
+        *Digit frequency analysis
 
 
 
   ##  Week 2 (22 Dec 2025 – 26 Dec 2025)- 
 
 - 22/Dec/2025 [Monday]---> 
-  Completed *string-related programs* using charAt(), arrays, and user-defined methods.
-  Implemented exception handling concepts with practical examples and proper error handling.
+     1.Completed String-based programs using:
+     *charAt()
+     *Arrays
+     *User-defined methods
 
+     2.Implemented exception handling with proper error management.
 
 - 23/Dec/2025 [Tuesday]---> 
-  Completed the *string* assignment, including programs for string manipulation, frequency calculation, and palindrome checks.
+     1.Completed the String Assignment.
+
+     2.Programs included:
+        *String manipulation
+        *Character frequency calculation
+        *Palindrome validation
 
 
 - 24/Dec/2025 [Wednesday]---> 

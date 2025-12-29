@@ -52,3 +52,5 @@
 
 - 29/Dec/2025 [Monday]--->
   Completed all questions from the *Extra Built-in Functions assignment*, including newly introduced time-based problems. Learned and implemented these concepts hands-on by writing and testing code, which improved practical understanding and problem-solving accuracy.
+  Practiced and solved 4 scenario-based problems, focusing on applying core Java concepts to real-world situations.
+  Completed one complex, large-scale scenario, which required structured logic, step-by-step problem breakdown, and clean implementation.

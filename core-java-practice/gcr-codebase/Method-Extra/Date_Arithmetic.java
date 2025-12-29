@@ -7,8 +7,7 @@ public class Date_Arithmetic {
         Scanner sc = new Scanner(System.in);
 
         // Take date input
-        System.out.print("Enter date (YYYY-MM-DD): ");
-        String inputDate = sc.nextLine();
+        String inputDate = sc.nextLine();//here we input date
 
         // Convert String to LocalDate
         LocalDate date = LocalDate.parse(inputDate);
@@ -24,8 +23,6 @@ public class Date_Arithmetic {
 
         System.out.println("Original Date : " + date);
         System.out.println("Final Date    : " + finalDate);
-
-        sc.close();
     }
 }
 

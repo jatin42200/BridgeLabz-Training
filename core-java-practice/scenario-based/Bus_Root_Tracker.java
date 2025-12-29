@@ -25,7 +25,7 @@ public class Bus_Root_Tracker {    public static void main(String[] args) {
                 System.out.println("\n=== JOURNEY COMPLETE ===");
                 System.out.println("You traveled a total of " + totalDistance + " km");
                 System.out.println("Total stops: " + stopNumber);
-                System.out.println("Thank you for traveling with us! 🚌");
+                System.out.println("Thank you for traveling with us! ");
                 break;
             } else {
                 System.out.println("Moving to next stop...\n");

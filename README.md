@@ -45,3 +45,7 @@
 
 - 26/Dec/2025 [Friday]--->
   Worked on *additional String-based problems*, and gained clarity on important String methods, including indexOf(), and their practical applications.  bhai dek redme file ko sahi hai ya fir isko me aur kese attracted aur achha bana sakta hu
+
+
+- 29/Dec/2025 [Monday]--->
+  Completed all questions from the *Extra Built-in Functions assignment*, including newly introduced time-based problems. Learned and implemented these concepts hands-on by writing and testing code, which improved practical understanding and problem-solving accuracy.

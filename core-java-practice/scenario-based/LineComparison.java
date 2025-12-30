@@ -13,7 +13,7 @@ public class LineComparison
         double[]arr3=new double[2];  // Line 2 start (x3 y3)
         double[]arr4=new double[2];  // Line 2 end (x4 y4)
         
-        // Line 1 ke coordinates input le rahe hain
+        //  Line 1 ke coordinates input le rahe hain
         System.out.println("Enter Line 1 Start (x1 y1):");
         arr1[0] = sc.nextDouble(); arr1[1] = sc.nextDouble();
         System.out.println("Enter Line 1 End (x2 y2):");

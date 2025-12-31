@@ -22,6 +22,6 @@ class CarRental {
     public static void main(String[] args) {
 
         CarRental rent = new CarRental("Jatin", "PubgBaali", 5);
-        rent.display();
+        rent . display();
     }
 }

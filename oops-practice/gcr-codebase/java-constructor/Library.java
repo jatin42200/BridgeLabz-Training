@@ -24,7 +24,7 @@ class LibraryBook {
         System.out.println(title + " | " + author + " | ₹" + price + " | Available: " + available);
     }
 }
-class Library {
+ class Library {
     public static void main(String[] args) {
 
         LibraryBook book = new LibraryBook("Java Basics", "Jimmy jimmy", 69);

@@ -28,7 +28,7 @@ class HotelBooking {
         System.out.println(guestName + " | " + roomType + " | " + nights + " nights");
     }
 }
- class Hotel{
+  class Hotel{
     public static void main(String[] args) {
 
         HotelBooking b1 = new HotelBooking();

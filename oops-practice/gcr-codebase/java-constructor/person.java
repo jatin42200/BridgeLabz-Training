@@ -17,7 +17,7 @@ class CopyPerson {
         System.out.println(name + " - " + age);
     }
 }
-class Person{
+ class Person{
     public static void main(String[]args)
     {
           CopyPerson c1=new CopyPerson("goldy",22);

@@ -16,7 +16,7 @@ class areaCircle {
         return Math.PI * radius * radius;
     }
 }
-class Circle
+ class Circle
 {
     public static void main(String[]args)
     {

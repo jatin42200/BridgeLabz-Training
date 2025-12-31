@@ -22,7 +22,7 @@ class BookConst {
         System.out.println(title + " | " + author + " | ₹" + price);
     }
 }
-class Book{
+ class Book{
     public static void main(String[]args)
     {
 

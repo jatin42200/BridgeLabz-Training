@@ -54,3 +54,10 @@
   Completed all questions from the *Extra Built-in Functions assignment*, including newly introduced time-based problems. Learned and implemented these concepts hands-on by writing and testing code, which improved practical understanding and problem-solving accuracy.
   Practiced and solved 4 scenario-based problems, focusing on applying core Java concepts to real-world situations.
   Completed one complex, large-scale scenario, which required structured logic, step-by-step problem breakdown, and clean implementation.
+
+- 30/Dec/2025 [Tuesday]--->
+  Implemented and solved a Line Comparison problem using a scenario-based approach, applying  conditional logic and object-oriented concepts to compare multiple line segments accurately.
+  Designed and implemented a Snake and Ladder game as a scenario-based problem, focusing on game flow   control, random number generation, and rule-based state transitions.
+
+
+  - 31/Dec/2025 [Wednesday]--->

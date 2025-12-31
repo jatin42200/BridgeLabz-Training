@@ -60,4 +60,4 @@
   Designed and implemented a Snake and Ladder game as a scenario-based problem, focusing on game flow   control, random number generation, and rule-based state transitions.
 
 
-  - 31/Dec/2025 [Wednesday]--->
+- 31/Dec/2025 [Wednesday]--->

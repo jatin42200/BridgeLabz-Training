@@ -1,4 +1,4 @@
- class studentDetail
+class studentDetail
 {
 	public static void main(String[] args) {
 		student s=new student("jatin",42069,"A");

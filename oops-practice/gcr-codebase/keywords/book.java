@@ -32,7 +32,7 @@ class Book
     }
     public void displayDetail()
     {
-        System.out.println("isbn name is : "+isbn+"\nsuthor name is : "+author+"\nTitle of the book is : "+title);
+      System.out.println("isbn name is : "+isbn+"\nsuthor name is : "+author+"\nTitle of the book is : "+title);
     }
     
 }

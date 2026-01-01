@@ -26,7 +26,7 @@ public class EmployeeDetail
 		
 	}
 }
-class Employee
+ class Employee
 {
     static String CompanyName="Ramesh Limited company";
     static int totalEmployee=0;

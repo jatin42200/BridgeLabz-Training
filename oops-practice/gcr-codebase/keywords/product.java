@@ -19,7 +19,7 @@
 	}
     
 }
-class product
+ class product
 {
     private static double discount=0.00;
     private String productName;

@@ -39,7 +39,7 @@ class Vehicle {
     }
 }
 
- class VehicleRegistrationSystem {
+  class VehicleRegistrationSystem {
     public static void main(String[] args) {
 
         // update registration fee for all vehicles

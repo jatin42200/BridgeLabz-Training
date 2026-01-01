@@ -44,7 +44,7 @@ class Patient {
     }
 }
 
- class HospitalManagementSystem {
+  class HospitalManagementSystem {
     public static void main(String[] args) {
 
         // create patient objects

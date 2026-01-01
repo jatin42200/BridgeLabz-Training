@@ -1,4 +1,4 @@
-public class checkInstance
+ class checkInstance
 {
 	public static void main(String[] args) {
 		Book bs=new Book("the alchemist","jatin","970-4398765");

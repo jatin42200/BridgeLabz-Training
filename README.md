@@ -47,7 +47,7 @@
   Worked on *additional String-based problems*, and gained clarity on important String methods, including indexOf(), and their practical applications.  bhai dek redme file ko sahi hai ya fir isko me aur kese attracted aur achha bana sakta hu
 
 
- ##                              Week 2 (29 Dec 2025 – 03 Jan 2025)- 
+ ##                              Week 3 (29 Dec 2025 – 03 Jan 2025)- 
  
 
 - 29/Dec/2025 [Monday]--->
@@ -65,10 +65,10 @@
   (Solved in oops-practice branch)
   Practiced problems based on instance variables, class (static) variables, and methods, ensuring clear differentiation between object-level and class-level behavior
   Solved keyword-based questions, including practical usage of:
-  .this
-  .static
-  .final
-  .instanceof
+  this
+  static
+  final
+  instanceof
 
 
 

@@ -12,7 +12,7 @@ class BankAccount {
         return balance;
     }
 }
-class SavingsAccount extends BankAccount {
+class SavingsAccount extends BankAccountTypes {
 
     public void displayDetails() {
         System.out.println(accountNumber);

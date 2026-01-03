@@ -65,10 +65,10 @@
   (Solved in oops-practice branch)
   Practiced problems based on instance variables, class (static) variables, and methods, ensuring clear differentiation between object-level and class-level behavior
   Solved keyword-based questions, including practical usage of:
-    .this
-    .static
-    .final
-    .instanceof
+  .this
+  .static
+  .final
+  .instanceof
 
 
 

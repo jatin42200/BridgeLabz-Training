@@ -39,6 +39,7 @@
   All questions of level 1 of *method base*, assignment codes have been completed. Each program demonstrates different methods and their usage.
   Two Scenario Based Questions are also done.
 
+
 - 25/Dec/2025 [Thursday]--->
   completed level 2 and level 3 of *method base* assignment and “I gained hands-on understanding of method-based programming by implementing user-defined methods, parameterized methods, and return value mechanisms and The initial assignment titled *practice problem* was missed earlier. It has now been completed and included as part of this repository.
 
@@ -55,6 +56,7 @@
   Practiced and solved 4 scenario-based problems, focusing on applying core Java concepts to real-world situations.
   Completed one complex, large-scale scenario, which required structured logic, step-by-step problem breakdown, and clean implementation.
 
+
 - 30/Dec/2025 [Tuesday]--->
   Implemented and solved a Line Comparison problem using a scenario-based approach, applying  conditional logic and object-oriented concepts to compare multiple line segments accurately.
   Designed and implemented a Snake and Ladder game as a scenario-based problem, focusing on game flow   control, random number generation, and rule-based state transitions.
@@ -67,14 +69,31 @@
   Solved keyword-based questions, including practical usage of: , this , static , final , instanceof
 
 
-
-
-
 - 1/Jan/2026 [Wednesday]--->
+  Worked on multiple scenario-based problems to apply object-oriented programming concepts in real-world situations. Designed and implemented solutions using core OOP principles such as classes and objects
 
 
 - 2/Jan/2026 [Friday]--->
   Designed and submitted an assignment based on *Object Oriented Design* Principles, focusing on   creating a clean, modular, and maintainable object-oriented structure. The design emphasizes proper responsibility distribution and low coupling between components.
 
-- 3/Jan/2026 [Friday]--->
+
+- 3/Jan/2026 [Saturday]--->
   Complete assignment of *Inheritance* and Studied the concept of  inheritance in Java in depth and strengthened the fundamentals of object-oriented design. Practiced and solved problems covering all major types of inheritance, including single, multilevel, hierarchical, and hybrid inheritance.
+
+
+ ##                              Week 4 (05 Dec 2025 – 09 Jan 2025)- 
+
+
+- 5/Jan/2026 [Saturday]--->
+
+
+- 6/Jan/2026 [Saturday]--->
+
+
+- 7/Jan/2026 [Saturday]--->
+
+
+- 8/Jan/2026 [Saturday]--->
+
+
+- 9/Jan/2026 [Saturday]--->

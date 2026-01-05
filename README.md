@@ -75,3 +75,6 @@
 
 - 2/Jan/2026 [Friday]--->
   Designed and submitted an assignment based on *Object Oriented Design* Principles, focusing on   creating a clean, modular, and maintainable object-oriented structure. The design emphasizes proper responsibility distribution and low coupling between components.
+
+- 3/Jan/2026 [Friday]--->
+  Complete assignment of *Inheritance* and Studied the concept of  inheritance in Java in depth and strengthened the fundamentals of object-oriented design. Practiced and solved problems covering all major types of inheritance, including single, multilevel, hierarchical, and hybrid inheritance.

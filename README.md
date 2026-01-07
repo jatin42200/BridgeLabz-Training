@@ -69,7 +69,7 @@
   Solved keyword-based questions, including practical usage of: , this , static , final , instanceof
 
 
-- 1/Jan/2026 [Wednesday]--->
+- 1/Jan/2026 [Thursday]--->
   Worked on multiple scenario-based problems to apply object-oriented programming concepts in real-world situations. Designed and implemented solutions using core OOP principles such as classes and objects
 
 
@@ -84,16 +84,18 @@
  ##                              Week 4 (05 Dec 2025 – 09 Jan 2025)- 
 
 
-- 5/Jan/2026 [Saturday]--->
+- 5/Jan/2026 [Monday]--->
+  Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.Two leetcode questions are also added.Scenario based questions are also implemented successfully.
+
+- 6/Jan/2026 [Tuesday]--->
+  Successfully completed all scenario-based problem statements, focusing on real-world logic building, control flow, and object-oriented design.
+  Solved and implemented all assigned LeetCode problems, covering:
 
 
-- 6/Jan/2026 [Saturday]--->
+- 7/Jan/2026 [Wednesday]--->
 
 
-- 7/Jan/2026 [Saturday]--->
+- 8/Jan/2026 [Thursday]--->
 
 
-- 8/Jan/2026 [Saturday]--->
-
-
-- 9/Jan/2026 [Saturday]--->
+- 9/Jan/2026 [Friday]--->

@@ -97,6 +97,12 @@
 
 
 - 8/Jan/2026 [Thursday]--->
+ Strengthened understanding of Linked List concepts
+ Practiced and implemented multiple Linked List questions
+ Covered all major Linked List types:
+  - Singly Linked List
+  - Doubly Linked List
+  - Circular Linked List
 
 
 - 9/Jan/2026 [Friday]--->

@@ -105,4 +105,20 @@
   - Circular Linked List
 
 
-- 9/Jan/2026 [Friday]--->
+ ##                              Week 5 (12 Dec 2025 – 16 Jan 2025)- 
+
+
+- 12/Jan/2026 [Monday]--->
+
+
+- 13/Jan/2026 [Tuesday]--->
+
+
+- 14/Jan/2026 [Wednesday]--->
+
+
+- 15/Jan/2026 [Thursday]--->
+
+
+- 16/Jan/2026 [Friday]---> 
+

@@ -26,17 +26,17 @@ class TrafficManager {
     // --- Queue Logic (Waiting Area) ---
     public void addToWaitingArea(String vehicleID) {
         if (waitingQueue.size() >= queueCapacity) {
-            System.out.println("❌ Queue Overflow: Waiting area full for " + vehicleID);
+            System.out.println("Queue Overflow: Waiting area full for " + vehicleID);
             return;
         }
         waitingQueue.add(vehicleID);
-        System.out.println("⏳ " + vehicleID + " is waiting to enter the roundabout.");
+        System.out.println(" " + vehicleID + " is waiting to enter the roundabout.");
     }
 
     // --- Circular Linked List Logic (Roundabout Flow) ---
     public void enterRoundabout() {
         if (waitingQueue.isEmpty()) {
-            System.out.println("⚠️ Queue Underflow: No vehicles waiting.");
+            System.out.println(" Queue Underflow: No vehicles waiting.");
             return;
         }
 
@@ -52,16 +52,16 @@ class TrafficManager {
             tail = newNode;
             tail.next = head; // Maintain circularity
         }
-        System.out.println("✅ " + vehicleID + " has entered the roundabout.");
+        System.out.println(" " + vehicleID + " has entered the roundabout.");
     }
 
     public void exitRoundabout() {
         if (head == null) {
-            System.out.println("⚠️ Roundabout is already empty.");
+            System.out.println(" Roundabout is already empty.");
             return;
         }
 
-        System.out.println("🚗 " + head.vehicleID + " has exited the roundabout.");
+        System.out.println(  head.vehicleID + " has exited the roundabout.");
         
         if (head == tail) { // Only one vehicle was there
             head = null;

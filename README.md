@@ -119,14 +119,16 @@
 
 
 - 14/Jan/2026 [Wednesday]--->
-- Implemented and tested the following sorting algorithms:
+  Implemented and tested the following sorting algorithms:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
   - Merge Sort
   - Quick Sort
-- Solved multiple problems based on sorting.
-- Focused on understanding time complexity and algorithm behavior.
+  - heap sort
+  - Number sort
+  Solved multiple problems based on sorting.
+  Focused on understanding time complexity and algorithm behavior.
 
 
 - 15/Jan/2026 [Thursday]--->

@@ -109,6 +109,7 @@
 
 
 - 12/Jan/2026 [Monday]--->
+  Designed and implemented scenario-based Java applications by mapping real-world problems to OOPs, interfaces, polymorphism, and exception handling. Built complete workflows and error handling for systems like Banking, Digital Wallet, E-Commerce, and Management platforms.
 
 
 - 13/Jan/2026 [Tuesday]--->
@@ -127,8 +128,6 @@
   - Quick Sort
   - heap sort
   - Number sort
-  Solved multiple problems based on sorting.
-  Focused on understanding time complexity and algorithm behavior.
 
 
 - 15/Jan/2026 [Thursday]--->

@@ -112,9 +112,21 @@
 
 
 - 13/Jan/2026 [Tuesday]--->
+  Solved multiple problems based on **Stack, Queue, HashMap, and Functions**.
+  Implemented all solutions in code.
+  Practiced real usage of data structures instead of just theory.
+  Improved logic building and problem-solving speed.
 
 
 - 14/Jan/2026 [Wednesday]--->
+- Implemented and tested the following sorting algorithms:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+- Solved multiple problems based on sorting.
+- Focused on understanding time complexity and algorithm behavior.
 
 
 - 15/Jan/2026 [Thursday]--->

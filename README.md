@@ -131,6 +131,9 @@
 
 
 - 15/Jan/2026 [Thursday]--->
+  Today, I implemented and thoroughly understood both fundamental searching algorithms used in data structures:
+  - Linear Search
+  - Binary Search
 
 
 - 16/Jan/2026 [Friday]---> 

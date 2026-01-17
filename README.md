@@ -131,10 +131,13 @@
 
 
 - 15/Jan/2026 [Thursday]--->
-  Today, I implemented and thoroughly understood both fundamental searching algorithms used in data structures:
-  - Linear Search
-  - Binary Search
+  Implemented and tested the following sorting algorithms:
+  - Quick Sort
+  - heap sort
+  - Number sort
 
 
 - 16/Jan/2026 [Friday]---> 
-
+  Today, I implemented and thoroughly understood both fundamental searching algorithms used in data structures:
+  - Linear Search
+  - Binary Search

@@ -138,6 +138,6 @@
   Today, I implemented and thoroughly understood both fundamental searching algorithms used in data structures:
   - Linear Search
   - Binary Search
-              - Solve 2 Leetcode questions
+           - Solve 2 Leetcode questions
   - Binary search
   - Roman to Integer

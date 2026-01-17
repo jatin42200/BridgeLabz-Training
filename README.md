@@ -128,7 +128,7 @@
 
 
 - 15/Jan/2026 [Thursday]--->
-  Implemented and tested the following sorting algorithms:
+  Implemented and tested the remaining sorting algorithms:
   - Quick Sort
   - heap sort
   - Number sort

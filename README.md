@@ -125,9 +125,6 @@
   - Selection Sort
   - Insertion Sort
   - Merge Sort
-  - Quick Sort
-  - heap sort
-  - Number sort
 
 
 - 15/Jan/2026 [Thursday]--->

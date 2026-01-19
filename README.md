@@ -138,3 +138,7 @@
   Today, I implemented and thoroughly understood both fundamental searching algorithms used in data structures:
   - Linear Search
   - Binary Search
+
+
+- 17/Jan/2026 [Saturday]--->
+  Leetcode solutions added and implemented successfully.String Builder,StringBuffer ,Linear Search and Binary Search assignments codes are completed.

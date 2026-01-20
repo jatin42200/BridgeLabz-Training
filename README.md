@@ -105,7 +105,7 @@
   - Circular Linked List
 
 
- ##                              Week 5 (12 Jan 2025 – 16 Jan 2025)- 
+ ##                              Week 5 (12 Jan 2025 – 17 Jan 2025)- 
 
 
 - 12/Jan/2026 [Monday]--->
@@ -142,3 +142,28 @@
 
 - 17/Jan/2026 [Saturday]--->
   Leetcode solutions added and implemented successfully.String Builder,StringBuffer ,Linear Search and Binary Search assignments codes are completed.
+
+
+##                              Week 6 (19 Jan 2025 – 23 Jan 2025)- 
+
+
+- 19/Jan/2026 [Monday]--->
+  - Object-Oriented Programming (OOPs): Successfully solved 2 Scenario-based problems focused on real-world implementation of Inheritance and Polymorphism.
+
+  - Problem Solving (LeetCode): Solved 2 LeetCode questions to strengthen my understanding of Data Structures and Algorithms (DSA).
+
+
+- 20/Jan/2026 [Tuesday]--->
+  - Algorithmic Analysis: Evaluated and solved multiple problems on Time and Space Complexity to optimize code efficiency.
+  - Problem Solving: Successfully completed 2 LeetCode problems, focusing on [Topic Name, e.g., Arrays/Strings] and optimal approaches.
+  - Real-world Logic: Solved several DSA Scenario-based challenges to bridge the gap between theoretical structures and practical implementation.
+  - Key Learning: Focused on reducing $O(N^2)$ solutions to $O(N \log N)$ or $O(N)$.
+
+
+- 21/Jan/2026 [Wednesday]--->
+
+
+- 22/Jan/2026 [Thursday]--->
+
+
+- 23/Jan/2026 [Friday]--->

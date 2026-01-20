@@ -63,33 +63,36 @@
 
 
 - 31/Dec/2025 [Wednesday]--->
-  Implemented constructor-based problems to understand object initialization and lifecycle
+  - Implemented constructor-based problems to understand object initialization and lifecycle
   (Solved in oops-practice branch)
-  Practiced problems based on instance variables, class (static) variables, and methods, ensuring clear differentiation between object-level and class-level behavior
-  Solved keyword-based questions, including practical usage of: , this , static , final , instanceof
+  - Practiced problems based on instance variables, class (static) variables, and methods, ensuring clear differentiation between object-level and class-level behavior
+  - Solved keyword-based questions, including practical usage of: , this , static , final , instanceof
 
 
 - 1/Jan/2026 [Thursday]--->
-  Worked on multiple scenario-based problems to apply object-oriented programming concepts in real-world situations. Designed and implemented solutions using core OOP principles such as classes and objects
+  - Worked on multiple scenario-based problems to apply object-oriented programming concepts in real-world situations. Designed and implemented solutions using core OOP principles such as classes and objects
 
 
 - 2/Jan/2026 [Friday]--->
-  Designed and submitted an assignment based on *Object Oriented Design* Principles, focusing on   creating a clean, modular, and maintainable object-oriented structure. The design emphasizes proper responsibility distribution and low coupling between components.
+  - Designed and submitted an assignment based on *Object Oriented Design* Principles, focusing on   creating a clean, modular, and maintainable object-oriented structure. 
+  - The design emphasizes proper responsibility distribution and low coupling between components.
 
 
 - 3/Jan/2026 [Saturday]--->
-  Complete assignment of *Inheritance* and Studied the concept of  inheritance in Java in depth and strengthened the fundamentals of object-oriented design. Practiced and solved problems covering all major types of inheritance, including single, multilevel, hierarchical, and hybrid inheritance.
+  - Complete assignment of *Inheritance* and Studied the concept of  inheritance in Java in depth and strengthened the fundamentals of object-oriented design. 
+  - Practiced and solved problems covering all major types of inheritance, including single, multilevel, hierarchical, and hybrid inheritance.
 
 
  ##                              Week 4 (05 Jan 2025 – 09 Jan 2025)- 
 
 
 - 5/Jan/2026 [Monday]--->
-  Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.Two leetcode questions are also added.Scenario based questions are also implemented successfully.
+  - Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.
+  - Two leetcode questions are also added.Scenario based questions are also implemented successfully.
 
 - 6/Jan/2026 [Tuesday]--->
-  Successfully completed all scenario-based problem statements, focusing on real-world logic building, control flow, and object-oriented design.
-  Solved and implemented all assigned LeetCode problems, covering:
+  - Successfully completed all scenario-based problem statements, focusing on real-world logic building, control flow, and object-oriented design.
+  - Solved and implemented all assigned LeetCode problems, covering:
 
 
 - 7/Jan/2026 [Wednesday]--->
@@ -109,14 +112,13 @@
 
 
 - 12/Jan/2026 [Monday]--->
-  Designed and implemented scenario-based Java applications by mapping real-world problems to OOPs, interfaces, polymorphism, and exception handling. Built complete workflows and error handling for systems like Banking, Digital Wallet, E-Commerce, and Management platforms.
+  - Designed and implemented scenario-based Java applications by mapping real-world problems to OOPs, interfaces, polymorphism, and exception handling. 
+  - Built complete workflows and error handling for systems like Banking, Digital Wallet, E-Commerce, and Management platforms.
 
 
 - 13/Jan/2026 [Tuesday]--->
-  Solved multiple problems based on **Stack, Queue, HashMap, and Functions**.
-  Implemented all solutions in code.
-  Practiced real usage of data structures instead of just theory.
-  Improved logic building and problem-solving speed.
+  - Solved multiple problems based on **Stack, Queue, HashMap, and Functions**. Implemented all     solutions in code.
+  - Practiced real usage of data structures instead of just theory and improved logic building and  problem-solving speed.
 
 
 - 14/Jan/2026 [Wednesday]--->

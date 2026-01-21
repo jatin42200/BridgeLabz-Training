@@ -166,7 +166,8 @@
 
 
 - 21/Jan/2026 [Wednesday]--->
-
+  - Studied and practiced Java Generics concepts and solved the assignment of it. 
+  - solved two LeetCode problems to strengthen problem-solving and type-safe programming skills.
 
 - 22/Jan/2026 [Thursday]--->
 

@@ -51,7 +51,7 @@
   - Worked on *additional String-based problems*, and gained clarity on important String methods, including indexOf(), and their practical applications.  
 
 
- ##                              Week 3 (29 Dec 2025 – 03 Jan 2025)- 
+ ##                              Week 3 (29 Dec 2025 – 03 Jan 2026)- 
  
 
 - 29/Dec/2025 [Monday]--->
@@ -86,7 +86,7 @@
   - Practiced and solved problems covering all major types of inheritance, including single, multilevel, hierarchical, and hybrid inheritance.
 
 
- ##                              Week 4 (05 Jan 2025 – 09 Jan 2025)- 
+ ##                              Week 4 (05 Jan 2026 – 09 Jan 2026)- 
 
 
 - 5/Jan/2026 [Monday]--->
@@ -111,7 +111,7 @@
   - Circular Linked List
 
 
- ##                              Week 5 (12 Jan 2025 – 17 Jan 2025)- 
+ ##                              Week 5 (12 Jan 2026 – 17 Jan 2026)- 
 
 
 - 12/Jan/2026 [Monday]--->
@@ -149,12 +149,11 @@
   Leetcode solutions added and implemented successfully.String Builder,StringBuffer ,Linear Search and Binary Search assignments codes are completed.
 
 
-##                              Week 6 (19 Jan 2025 – 23 Jan 2025)- 
+##                              Week 6 (19 Jan 2026 – 23 Jan 2026)- 
 
 
 - 19/Jan/2026 [Monday]--->
   - Object-Oriented Programming (OOPs): Successfully solved 2 Scenario-based problems focused on real-world implementation of Inheritance and Polymorphism.
-
   - Problem Solving (LeetCode): Solved 2 LeetCode questions to strengthen my understanding of Data Structures and Algorithms (DSA).
 
 
@@ -169,7 +168,29 @@
   - Studied and practiced Java Generics concepts and solved the assignment of it. 
   - solved two LeetCode problems to strengthen problem-solving and type-safe programming skills.
 
+
 - 22/Jan/2026 [Thursday]--->
+  - Implemented Java Collections assignments along with real-world application examples to demonstrate practical usage and problem-solving.
+  - completed two leetcode questions.
 
 
 - 23/Jan/2026 [Friday]--->
+  - Developed and implemented Java Stream API assignments focusing on functional-style data processing.
+  - completed two leetcode questions. 
+
+
+##                              Week 7 (27 Jan 2026 – 31 Jan 2026)-
+
+
+
+- 27/Jan/2026 [Tuesday]--->
+  - Implemented exception handling assignments, solved the Lexical Twist problem, and added scenario-based questions.
+  - Completed two leetcode questions.
+
+
+- 28/Jan/2026 [Wednesday]--->
+
+
+
+
+- 29/Jan/2026 [Thursday]--->

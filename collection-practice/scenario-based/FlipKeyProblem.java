@@ -14,7 +14,7 @@ public class FlipKeyProblem {
 		for(int i = 0;i < input.length();i++) {
 			if(!(input.charAt(i)>=97 && input.charAt(i)<=122)) {
 				System.out.println(" ");
-				return;
+				return ;
 			}
 		}
 		StringBuilder output = new StringBuilder();

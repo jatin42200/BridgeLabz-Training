@@ -12,7 +12,7 @@ public class LexicalTwistProblem {
 			return;
 		}
 		
-		System.out.println("Enter Word 2: ");
+		System.out.println(" Enter Word 2: ");
 		String word2 = sc.nextLine();
 		
 		if(word2.contains(" ")) {

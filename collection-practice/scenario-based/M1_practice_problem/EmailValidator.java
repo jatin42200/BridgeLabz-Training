@@ -49,13 +49,15 @@ public class EmailValidator {
         }
 
         // separate lastname and digits
-        int i = 0;
-        while (i < lastWithDigits.length() && Character.isLowerCase(lastWithDigits.charAt(i))) {
-            i++;
+        int i = lastWithDigits.length() - 1;
+        while (i >= 0 && Character.isDigit(lastWithDigits.charAt(i))) {
+            i--;
         }
 
-        String lastName = lastWithDigits.substring(0, i);
-        String digits = lastWithDigits.substring(i);
+        if (i < 0) return false; // no letters found before digits
+        
+        String lastName = lastWithDigits.substring(0, i + 1);
+        String digits = lastWithDigits.substring(i + 1);
 
         // validate lastname
         if (lastName.length() < 3) return false;

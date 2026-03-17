@@ -1,6 +1,4 @@
 import java.util.*;
-import java.util.regex.*;
-
 public class documentReductionEngine {
 
     public static String processLine(String input) {

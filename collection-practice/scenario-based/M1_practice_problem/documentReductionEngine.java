@@ -24,7 +24,7 @@ public class documentReductionEngine {
         
         if (!sc.hasNextInt()) return; 
         
-        int n = sc.nextInt();
+        int n = sc.nextInt(); 
         sc.nextLine(); // consume newline
 
         for (int i = 0; i < n; i++) {

@@ -6,7 +6,7 @@ class InvalidNameException extends Exception {
 }
 
 
-public class Main {
+public class ValidateName {
 
     public static boolean validateName(String name) {
 

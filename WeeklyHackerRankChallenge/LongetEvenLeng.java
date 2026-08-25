@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class LongetEvenLeng {
 
     public static void main(String[] args) {
 
